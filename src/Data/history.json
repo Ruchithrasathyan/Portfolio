@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Software Developer",
+      "organisation": "Accenture Solutions",
+      "startDate": "Nov, 2021",
+      "endDate": "May 2022",
+      "experiences": ["Design and constructed more than 10 responsive user interfaces for web and mobile applications,applying advanced technologies such as React,Redux,and CSS to deliver seamless user experiences.","Performed code quality enhancements by executing SonarQube for automated code analysis,resulting in an impressive 90% improvement in code reliability and system efficiency.","Implemented comprehensive testing efforts, creating test suites for over 200 UI components, including A/B testing, ensured optimal performance and functionality,contributing to superior user interactions.","Participated in Agile development,making significant contributions to the continuous improvement,optimization of development workflows and code refactoring."],
+      "imageSrc": "history/Accenture.png"
+    }
+  ]

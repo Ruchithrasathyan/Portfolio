@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Culinary Quest - The Recipe Finder App",
+      "imageSrc": "project/culinary2.png",
+      "description": "This app streamlines cooking with personalized recipe suggestions based on available ingredients. Users input ingredients, and the app fetches matching recipes with details like instructions, preparation time, cooking time, serving size, and nutritional info. Save favorites for quick access, and provide feedback for continuous improvement. Enjoy convenient and inspired cooking with this user-friendly kitchen companion.",
+      "skills": ["Swift, UIKit, FireBase Auth and Firestore"],
+      "github": "https://github.com/Ruchithrasathyan/CulinaryQuest-Recipe-Finder-App"
+    },
+    {
+      "title": "University Search Web Application",
+      "imageSrc": "project/web4.png",
+      "description": "UniSearch, my React and Redux web app, elevated user engagement by 30%. It provides advanced filtering for precise university selection, secure authentication with OAuth, and seamless integration using MongoDB, Node.js, and more. The optimized interface led to a 20% reduction in load time, garnering a 25% boost in user experience ratings. Key features encompass a standardized menu, Explore and Courses pages, and a dynamic Comments Section for alumni feedback.",
+      "skills": ["React, Express, Node, HTML, CSS"],
+      "github": "https://github.com/Ruchithrasathyan/CulinaryQuest-Recipe-Finder-App"
+    }
+  ]
