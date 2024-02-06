@@ -9,7 +9,7 @@ export default defineConfig({
   plugins: [react(),
   Checkerboard(),
 ],
-base: '/src/',
+base: './',
   css:{
     modules:
     {
