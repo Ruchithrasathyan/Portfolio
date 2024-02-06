@@ -5,6 +5,7 @@ import Checkerboard from 'vite-plugin-checker';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '',
   plugins: [react(),
   Checkerboard(),
 ],
