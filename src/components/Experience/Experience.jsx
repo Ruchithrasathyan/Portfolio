@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from "./Experience.module.css";
-import history from "../../data/history.json";
+import history from "../../Data/history.json";
 import { getImageUrl } from '../../utils';
 // import { Skills } from '../Skills/Skills';
 
