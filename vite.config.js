@@ -5,10 +5,14 @@ import Checkerboard from 'vite-plugin-checker';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react()
-  ,
+  plugins: [react(),
   Checkerboard(),
 ],
+resolve: {
+  alias: {
+    '@': new URL('src', import.meta.url).pathname,
+  },
+},
   css:{
     modules:
     {
