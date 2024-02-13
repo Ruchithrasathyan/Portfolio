@@ -19,7 +19,7 @@
 .title {
   font-size: 25px;
   font-weight: 700;
-  font-family: 'Times New Roman', Times, serif;
+  /* font-family: 'Times New Roman', Times, serif; */
 }
 
 .description {
@@ -27,7 +27,7 @@
   text-align: justify;
   font-size: 15px;
   font-weight: 400;
-  font-family: 'Times New Roman', Times, serif;
+  /* font-family: 'Times New Roman', Times, serif; */
 }
 
 .skills {
@@ -38,7 +38,7 @@
   flex-wrap: wrap;
   gap: 6px;
   list-style: none;
-  font-family: 'Times New Roman', Times, serif;
+  /* font-family: 'Times New Roman', Times, serif; */
 }
 
 .skill {
@@ -48,7 +48,7 @@
   border-radius: 20px;
   background-color: #06234c;
   padding: 2px 22px;
-  font-family: 'Times New Roman', Times, serif;
+  /* font-family: 'Times New Roman', Times, serif; */
 }
 
 .links {
@@ -67,5 +67,5 @@
   border-radius: 15px;
   background: var(--color-primary);
   padding: 1px 22px;
-  font-family: 'Times New Roman', Times, serif;
+  /* font-family: 'Times New Roman', Times, serif; */
 }

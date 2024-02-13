@@ -11,6 +11,6 @@
       "imageSrc": "project/web4.png",
       "description": "UniSearch, my React and Redux web app, elevated user engagement by 30%. It provides advanced filtering for precise university selection, secure authentication with OAuth, and seamless integration using MongoDB, Node.js, and more. The optimized interface led to a 20% reduction in load time, garnering a 25% boost in user experience ratings. Key features encompass a standardized menu, Explore and Courses pages, and a dynamic Comments Section for alumni feedback.",
       "skills": ["React, Express, Node, HTML, CSS"],
-      "github": "https://github.com/Ruchithrasathyan/CulinaryQuest-Recipe-Finder-App"
+      "github": "https://github.com/Ruchithrasathyan/University-Search-Web-Application"
     }
   ]
